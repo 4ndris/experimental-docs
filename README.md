@@ -1,2 +1,2 @@
 # experimental-docs
-Generic research
+The purpose of this repository is to document Generic research activities
